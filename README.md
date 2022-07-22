@@ -1,7 +1,8 @@
 # ROS_install
 
-[ROS_install tutorial](https://industrial-training-master.readthedocs.io/en/melodic/_source/setup/PC-Setup---ROS.html)
 
+[ROS_install tutorial](https://industrial-training-master.readthedocs.io/en/melodic/_source/setup/PC-Setup---ROS.html)
+[ubuntu git](https://hackmd.io/@sam-liaw/BkzQ9zC0B)
 
 ```
 git clone -b melodic https://github.com/ros-industrial/industrial_training.git ~/industrial_training 
