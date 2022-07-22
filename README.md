@@ -16,6 +16,24 @@ bash ros-industrial-training-setup.sh
 
 ```
 
+```
+# install python pip
+sudo apt install python-pip
+sudo python -m pip install -U pip
+sudo python -m pip install -U setuptools
+
+```
+
+[ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/_source/Improve-ROS-Qt-Creator-Plugin-Developers-ONLY.html)
+
+```
+git clone https://github.com/ros-industrial/ros_qtc_plugin.git -b devel
+
+cd ~/ros_qtc_plugin
+
+./setup.py
+
+```
 
 
 ```
